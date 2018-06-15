@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/john-blaine/express-flash-cards/issues"
   },
-  "homepage": "https://github.com/john-blaine/express-flash-cards#readme"
+  "homepage": "https://github.com/john-blaine/express-flash-cards#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
